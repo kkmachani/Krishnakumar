@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Specify the log file you want to monitor
-LOG_FILE="C:\Users\Lenovo\Krishna\file.log"
+LOG_FILE="C:\Users\Lenovo\Krishna\k1.log"
 
 # Function to check for new entries in the log file
 check_log() {
